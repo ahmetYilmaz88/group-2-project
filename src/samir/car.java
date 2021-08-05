@@ -6,6 +6,9 @@ public class car {
         System.out.println("I love Tesla but done have money ");
 
         // i wish yilmaz tell me a stock to buy and make money out of that .
+        // still working
+
     }
+
 
 }
