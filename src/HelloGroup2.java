@@ -1,8 +1,7 @@
 public class HelloGroup2 {
 
-    // Good morning Group2
-    // Group2 work has started
-    // We have good collaboration
+    //I'm making changes here
+    //Let's do one more commit
 
 
     public static void main(String[] args) {
@@ -11,9 +10,7 @@ public class HelloGroup2 {
         System.out.println("Creating second print line for gitHub work flow practice");
 
     // done with my branching _ samir
-
-
-
+      // great job!
 
     }
 
