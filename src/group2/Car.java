@@ -1,4 +1,4 @@
-package b23user;
+package group2;
 
 public class Car {
     int year;
